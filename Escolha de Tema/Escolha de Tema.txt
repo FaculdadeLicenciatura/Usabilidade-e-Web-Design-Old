@@ -1,0 +1,4 @@
+Tema : 2-Segurança alimentar
+Possível(is) problema(s) a resolver: Insegurança de comer um alimento sem saber o nivel calorico e o quão saudável é.
+Cliente: Indivíduos preocupados com a saúde e que pretendem controlar a alimentação.
+Utilizador: Indivíduos que utilizam a solução para monitorizar e melhorar a sua alimentação.
