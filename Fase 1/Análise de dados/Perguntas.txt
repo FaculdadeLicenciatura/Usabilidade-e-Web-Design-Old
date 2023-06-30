@@ -1,0 +1,60 @@
+
+Verifica regularmente as informações nutricionais dos alimentos que consome?
+
+Nunca: 1 | 2 | 3 | 4 | 5: Sempre - NR (Não Responde)
+
+Preocupa-se em escolher alimentos orgânicos ou sem pesticidas?
+
+Nunca: 1 | 2 | 3 | 4 | 5: Sempre - NR (Não Responde)
+
+Verifica a data de validade dos alimentos antes de comprá-los?
+
+Nunca: 1 | 2 | 3 | 4 | 5: Sempre - NR (Não Responde)
+
+Evita alimentos com aditivos químicos?
+
+Nunca: 1 | 2 | 3 | 4 | 5: Sempre - NR (Não Responde)
+
+Evita alimentos com alto teor de gordura ou açúcar?
+
+Nunca: 1 | 2 | 3 | 4 | 5: Sempre - NR (Não Responde)
+
+Verifica a proveniência dos alimentos que consome?
+
+Nunca: 1 | 2 | 3 | 4 | 5: Sempre - NR (Não Responde)
+
+Evita alimentos com glúten ou lactose?
+
+Nunca: 1 | 2 | 3 | 4 | 5: Sempre - NR (Não Responde)
+
+Escolhe alimentos com baixo teor de sódio?
+
+Nunca: 1 | 2 | 3 | 4 | 5: Sempre - NR (Não Responde)
+
+Preocupa-se em seguir uma dieta equilibrada?
+
+Nunca: 1 | 2 | 3 | 4 | 5: Sempre - NR (Não Responde)
+
+Utiliza aplicativos ou tecnologias para monitorizar a sua alimentação?
+
+Nunca: 1 | 2 | 3 | 4 | 5: Sempre - NR (Não Responde)
+
+Acredita que a tecnologia pode ajudar na segurança alimentar e qualidade nutricional dos alimentos?
+
+Nunca: 1 | 2 | 3 | 4 | 5: Sempre - NR (Não Responde)
+
+Acha que as soluções atuais são adequadas para garantir a segurança alimentar?
+
+Nunca: 1 | 2 | 3 | 4 | 5: Sempre - NR (Não Responde)
+
+Acredita que a tecnologia pode melhorar a qualidade nutricional dos alimentos?
+
+Nunca: 1 | 2 | 3 | 4 | 5: Sempre - NR (Não Responde)
+
+Acredita que a tecnologia pode melhorar a segurança alimentar?
+
+Nunca: 1 | 2 | 3 | 4 | 5: Sempre - NR (Não Responde)
+
+Gostaria de ver mais soluções baseadas em tecnologia para melhorar a segurança alimentar e qualidade nutricional dos alimentos?
+
+Nunca: 1 | 2 | 3 | 4 | 5: Sempre - NR (Não Responde)
